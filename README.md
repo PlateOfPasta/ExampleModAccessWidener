@@ -16,3 +16,4 @@ Note, this works for 1.16.1.
 
 # References
 https://github.com/Hephaestus-Dev/Landmark/blob/master/src/main/resources/landmark.accesswidener
+https://fabricmc.net/wiki/tutorial:accesswideners
