@@ -11,6 +11,8 @@ Files that have changed relative to the vanilla `fabric-example-mod` due to acce
   - Added the necessary key/value pair.
 - `src/main/java/net/fabricmc/example/NewGeneratorType.java`
   - A child class that can extend the target of the access widening, `GeneratorType`.
+  
+Note, this works for 1.16.2
 
 # References
 https://github.com/Hephaestus-Dev/Landmark/blob/master/src/main/resources/landmark.accesswidener

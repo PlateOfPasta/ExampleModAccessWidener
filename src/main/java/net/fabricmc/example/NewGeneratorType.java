@@ -4,7 +4,6 @@ import net.minecraft.client.world.GeneratorType;
 import net.minecraft.util.registry.Registry;
 import net.minecraft.world.biome.Biome;
 import net.minecraft.world.gen.chunk.ChunkGenerator;
-import net.minecraft.world.gen.chunk.ChunkGeneratorSettings;
 
 public class NewGeneratorType extends GeneratorType {
   
@@ -14,11 +13,9 @@ public class NewGeneratorType extends GeneratorType {
     super(translationKey);
   }
 
-  // Required to implement since we're extending GeneratorType.
+  // Required override.
   @Override
-  protected ChunkGenerator getChunkGenerator(Registry<Biome> biomeRegistry,
-                                             Registry<ChunkGeneratorSettings> chunkGeneratorSettingsRegistry,
-                                             long seed) {
+  protected ChunkGenerator method_29076(long l) {
     return null;
   }
 }
