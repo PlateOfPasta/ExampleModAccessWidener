@@ -1,9 +1,4 @@
-# Fabric Example Mod
+# Example Mod Access Widener
 
-## Setup
+Repo based on FabricMC/fabric-example-mod template to demonstrate how to use access wideners.
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
