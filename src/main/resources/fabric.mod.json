@@ -33,5 +33,6 @@
   },
   "suggests": {
     "flamingo": "*"
-  }
+  },
+  "accessWidener" : "modid.accesswidener"
 }
